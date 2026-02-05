@@ -2,7 +2,7 @@
 
 Учебный проект — адаптивный каталог интернет-магазина гаджетов.
 
-<a href="https://purecodeee.github.io/Gadget-Store-Catalog/">сылка</a>
+<a href="https://purecodeee.github.io/Gadget-Store-Catalog/">ссылка</a>
 
 ## 📌 О проекте
 
